@@ -2,9 +2,7 @@
   "name": "weather-web",
   "version": "1.0.0",
   "description": "",
-"scripts": {
-    "start": "node app.js"
-  },
+"main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
