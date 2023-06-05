@@ -281,3 +281,15 @@ footer p{
     }
 }
 
+@media (max-width:405px){
+  .main_layer .middle_layer p, .main_layer .middle_layer .fa {
+      font-size: 6rem;
+    }
+   
+}
+@media (max-width:362px){
+  .main_layer .middle_layer p, .main_layer .middle_layer .fa {
+      font-size: 5rem;
+    }
+   
+}
