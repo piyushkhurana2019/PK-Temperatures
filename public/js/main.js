@@ -14,7 +14,7 @@ function updateDayTime() {
   const days = [
     "Sunday",
     "Monday",
-    "Tuesay",
+    "Tuesday",
     "Wednesday",
     "Thursday",
     "Friday",
